@@ -1,4 +1,4 @@
-## ✅ Queries Implemented
+## Queries Implemented
 
 ### 1 INNER JOIN: Bookings with the Users Who Made Them
 
